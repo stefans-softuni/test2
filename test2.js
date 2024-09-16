@@ -34,3 +34,4 @@ function solve(type, age) {
 }
 
 solve("Holiday", 5);
+solve("Local", 4);
